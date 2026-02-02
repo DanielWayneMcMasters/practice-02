@@ -1,4 +1,11 @@
+# Nicholas Seward
+# Cirle Calculatr
 # AI Disclaimer: This code was written without the use of AI tools.
+
+# Enter the radius of the circl: 6.4
+# Area: 83.29 square units
+# Circumference: 42.52 units
+
 import math
 
 PI = math.pi

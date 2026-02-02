@@ -1,4 +1,9 @@
+# Nicholas Seward
+# Temperature Converter
 # AI Disclaimer: This code was written without the use of AI tools.
+
+# Enter temperature in Celsius: 24
+# 24.0°C = 75.2°F = 297.15K 
 
 temp_C = float(input("Enter temperature in Celsius: "))
 
